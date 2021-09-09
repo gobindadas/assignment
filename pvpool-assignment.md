@@ -23,7 +23,7 @@ The CRD defines the image for the storage agent, the number of agents and the PV
 
 
 ### The Project 
-* You can download the project from [here](https://drive.google.com/file/d/1LJEdo8VAtvdAIKyXVP497QshOCzQ8xvw/view?usp=sharing)
+* You can download the project from [here](https://drive.google.com/file/d/1DxXeGRAqPtzFCJsfRd08r30iXOVarWiZ/view?usp=sharing)
 
 * This project is in golang and is using the Kubernetes API. It is recommended to get yourself familiarized with golang and basic kubernetes concepts and commands. The [official Kubernetes docs](https://kubernetes.io/docs/home/) are pretty good. 
 
